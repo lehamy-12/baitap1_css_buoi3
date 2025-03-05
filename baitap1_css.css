@@ -1,0 +1,14 @@
+.khung{
+    border: 10px solid black;
+    padding:10px;
+}
+.title{
+    color:#690B22;
+    font-weight:bold;
+    text-align:center;
+}
+.website{
+    color:#6A9C89;
+    font-weight:bold;
+    text-align:right;
+}
